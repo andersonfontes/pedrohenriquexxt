@@ -1,5 +1,6 @@
 # OLÁ! EU SOU O PEDRO HENRIQUE 👋
 
-- 🔭 ESTUDANTE DE FRONT-END.
+- :book:
+ ESTUDANTE DE FRONT-END.
 - 😄 Pronouns: ELE/DELE
 
